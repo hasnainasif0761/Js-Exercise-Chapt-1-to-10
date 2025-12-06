@@ -104,10 +104,31 @@
 
 
 // Question 6) If Statement and Comparison Operators:
+// Answere for this question is few point
+// 1)
+// var age = Number(prompt('Enter your Age'));
+// if(age < 30){
+//     console.log("You're still young man.");
+// }
+// 2)
+// var  num = prompt('Enter Your Even Number');
+// if(num % 2 == 0){
+//   console.log('your number is Even '+num);
+// }else
+// {
+//     console.log('Your Number is Not Even '+num);
+// }
+// 3)
+// var num1 = prompt('Enter your first Number');
+// var num2 = prompt('Enter your second Number');
 
-
-
-
+// if(num1 > num2){
+//   console.log('First Number is Greater');
+// }else if(num2 > num1){
+//     console.log('Second Number is Greater');
+// }else{
+//     console.log('Both number are Equal');
+// }
 
 
 
